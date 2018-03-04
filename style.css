@@ -10,3 +10,8 @@ body {
 .title {
     margin: 1% 20%;
 }
+
+.glyph-icon svg {
+    width:16px;
+    height:16px;
+}
